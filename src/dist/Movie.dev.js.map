@@ -1,0 +1,1 @@
+{"version":3,"sources":["Movie.js"],"names":[],"mappings":";;AAAA;;AACA","sourcesContent":["import React from \"react\";\nimport PropTypes from \"prop-types\";"],"file":"Movie.dev.js"}
